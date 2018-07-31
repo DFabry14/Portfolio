@@ -1,0 +1,82 @@
+.navcolor {
+    background-color: aqua;
+}
+
+.card {
+    float: left;
+    flex-wrap: wrap;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 400px;
+    width: 200px;
+
+}
+
+body {
+    background-color: rgb(36, 36, 138);
+}
+ .wrapper {
+     margin-left: 3%;
+     margin-right: 3%;
+ }
+
+.btn-primary {
+    background-color: aqua;
+    color: black;
+}
+
+/* .jumbotron {
+    height: 300px;
+} */
+
+.modal-body {
+    text-align: center;
+    font-size: 24px;
+}
+
+.display-4 {
+    font-weight: bold;
+}
+
+.lead {
+    font-weight: bold;
+}
+
+.clearfix::after {
+    content: "";
+    display: block;
+    clear: both;
+  }
+
+footer {
+    height: 35px;
+    position: relative;
+    bottom:0;
+    left:0; 
+    background-color: aqua;
+    margin-top: 20px;
+}
+
+.footer-text {
+    font-weight: bold;
+    font-size: 12px;
+    text-align: center;
+    padding-top: 7px;
+}
+
+.headline, .headline-text {
+    height: 40px;
+    background-color: aqua;
+    margin-top: -35px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 34px;
+}
+
+.about-text {
+    font-weight: bold;
+    font-size: 20px;
+}
